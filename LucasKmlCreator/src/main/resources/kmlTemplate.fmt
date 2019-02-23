@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2">
+
+<Document>
+	<name>Lucas 2015- Photo Viewer</name>
+
+<Style id="placemark-balloon-style">
+    <BalloonStyle>
+      <text>
+       
+<![CDATA[
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Lucas 2015 - Photos for $[ID]</title>
+</head>
+<body>
+<p>ID : $[ID] , Altitude (From GPS) : $[ALTITUDE]</p>
+<p>Position : Lat. $[LATITUDE] Long. $[LONGITUDE]
+<p><a target="_blank" href="http://ec.europa.eu/eurostat/statistical-atlas/gis/LUCAS/thumbs/2015/$[COUNTRY]/$[ID]P.jpg" >Center</a></p>
+<img src="http://ec.europa.eu/eurostat/statistical-atlas/gis/LUCAS/thumbs/2015/$[COUNTRY]/$[ID]P.jpg"/>
+<p><a target="_blank" href="http://ec.europa.eu/eurostat/statistical-atlas/gis/LUCAS/thumbs/2015/$[COUNTRY]/$[ID]N.jpg" >North</a></p>
+<img src="http://ec.europa.eu/eurostat/statistical-atlas/gis/LUCAS/thumbs/2015/$[COUNTRY]/$[ID]N.jpg"/>
+<p><a target="_blank" href="http://ec.europa.eu/eurostat/statistical-atlas/gis/LUCAS/thumbs/2015/$[COUNTRY]/$[ID]S.jpg" >South</a></p>
+<img src="http://ec.europa.eu/eurostat/statistical-atlas/gis/LUCAS/thumbs/2015/$[COUNTRY]/$[ID]S.jpg"/>
+<p><a target="_blank" href="http://ec.europa.eu/eurostat/statistical-atlas/gis/LUCAS/thumbs/2015/$[COUNTRY]/$[ID]E.jpg" >East</a></p>
+<img src="http://ec.europa.eu/eurostat/statistical-atlas/gis/LUCAS/thumbs/2015/$[COUNTRY]/$[ID]E.jpg"/>
+<p><a target="_blank" href="http://ec.europa.eu/eurostat/statistical-atlas/gis/LUCAS/thumbs/2015/$[COUNTRY]/$[ID]W.jpg" >West</a></p>
+<img src="http://ec.europa.eu/eurostat/statistical-atlas/gis/LUCAS/thumbs/2015/$[COUNTRY]/$[ID]W.jpg"/>
+
+</body>
+</html>
+
+]]>
+
+      </text>
+    </BalloonStyle>
+	<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+    <scale>0</scale>
+  </LabelStyle>
+</Style>
+
+
+ 
+ <!-- DO NOT REMOVE THIS LINE - IT GENERATES THE EXTRA FIELDS FROM THE CSV-BALLOON INTEGRATION -->
+
+<#list points as point >
+
+	<Placemark id="${point.ID}">
+		<name>${point.ID}</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>${point.ID}</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>${point.latitude}</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>${point.longitude}</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>${point.country}</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>${point.altitude}</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>${point.latitude + 0.01}</north>
+	    <south>${point.latitude - 0.01}</south>
+	    <east>${0.01 + point.longitude}</east>
+	    <west>${point.longitude - 0.01}</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>${point.longitude},${point.latitude},0</coordinates>
+		</Point>
+   		
+	</Placemark>
+</#list>
+	
+</Document>
+</kml>

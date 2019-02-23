@@ -1,0 +1,45 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.openforis.tools</groupId>
+  <artifactId>LucasKmlCreator</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>Lucas Kml Creator</name>
+  <dependencies>
+  	<dependency>
+	    <groupId>au.com.bytecode</groupId>
+	    <artifactId>opencsv</artifactId>
+	    <version>2.4</version>
+	</dependency>
+  	<dependency>
+	    <groupId>org.freemarker</groupId>
+	    <artifactId>freemarker</artifactId>
+	    <version>2.3.23</version>
+	</dependency>
+	
+	<dependency>
+	    <groupId>org.openforis.collect.earth</groupId>
+	    <artifactId>collect-earth-sampler</artifactId>
+	    <version>1.7.9</version>
+	</dependency>
+	
+	
+  </dependencies>
+  
+  	<repositories>
+		<repository>
+			<id>openforis-releases</id>
+			<name>Open Foris Repository</name>
+			<url>http://www.openforis.org/nexus/content/repositories/releases/</url>
+		</repository>
+		<repository>
+			<id>openforis-snapshots</id>
+			<name>Open Foris Snapshots Repository</name>
+			<url>http://www.openforis.org/nexus/content/repositories/snapshots/</url>
+		</repository>
+		<repository>
+			<id>openforis-3rd-party</id>
+			<name>Open Foris Repository</name>
+			<url>http://www.openforis.org/nexus/content/repositories/thirdparty/</url>
+		</repository>
+	</repositories>
+</project>
