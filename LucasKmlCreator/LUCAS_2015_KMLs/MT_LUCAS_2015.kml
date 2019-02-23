@@ -1,0 +1,3849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2">
+
+<Document>
+	<name>Lucas 2015- Photo Viewer</name>
+
+<Style id="placemark-balloon-style">
+    <BalloonStyle>
+      <text>
+       
+<![CDATA[
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Lucas 2015 - Photos for $[ID]</title>
+</head>
+<body>
+<p>ID : $[ID] , Altitude (From GPS) : $[ALTITUDE]</p>
+<p>Position : Lat. $[LATITUDE] Long. $[LONGITUDE]
+<p><a target="_blank" href="http://ec.europa.eu/eurostat/statistical-atlas/gis/LUCAS/thumbs/2015/$[COUNTRY]/$[ID]P.jpg" >Center</a></p>
+<img src="http://ec.europa.eu/eurostat/statistical-atlas/gis/LUCAS/thumbs/2015/$[COUNTRY]/$[ID]P.jpg"/>
+<p><a target="_blank" href="http://ec.europa.eu/eurostat/statistical-atlas/gis/LUCAS/thumbs/2015/$[COUNTRY]/$[ID]N.jpg" >North</a></p>
+<img src="http://ec.europa.eu/eurostat/statistical-atlas/gis/LUCAS/thumbs/2015/$[COUNTRY]/$[ID]N.jpg"/>
+<p><a target="_blank" href="http://ec.europa.eu/eurostat/statistical-atlas/gis/LUCAS/thumbs/2015/$[COUNTRY]/$[ID]S.jpg" >South</a></p>
+<img src="http://ec.europa.eu/eurostat/statistical-atlas/gis/LUCAS/thumbs/2015/$[COUNTRY]/$[ID]S.jpg"/>
+<p><a target="_blank" href="http://ec.europa.eu/eurostat/statistical-atlas/gis/LUCAS/thumbs/2015/$[COUNTRY]/$[ID]E.jpg" >East</a></p>
+<img src="http://ec.europa.eu/eurostat/statistical-atlas/gis/LUCAS/thumbs/2015/$[COUNTRY]/$[ID]E.jpg"/>
+<p><a target="_blank" href="http://ec.europa.eu/eurostat/statistical-atlas/gis/LUCAS/thumbs/2015/$[COUNTRY]/$[ID]W.jpg" >West</a></p>
+<img src="http://ec.europa.eu/eurostat/statistical-atlas/gis/LUCAS/thumbs/2015/$[COUNTRY]/$[ID]W.jpg"/>
+
+</body>
+</html>
+
+]]>
+
+      </text>
+    </BalloonStyle>
+	<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+    <scale>0</scale>
+  </LabelStyle>
+</Style>
+
+
+ 
+ <!-- DO NOT REMOVE THIS LINE - IT GENERATES THE EXTRA FIELDS FROM THE CSV-BALLOON INTEGRATION -->
+
+
+	<Placemark id="47021452">
+		<name>47021452</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47021452</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>36.036</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.19</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.190218</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>36.046</north>
+	    <south>36.026</south>
+	    <east>14.2</east>
+	    <west>14.18</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.19,36.036,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47021454">
+		<name>47021454</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47021454</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>36.054</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.191</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.191067</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>36.064</north>
+	    <south>36.044</south>
+	    <east>14.201</east>
+	    <west>14.181</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.191,36.054,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47021456">
+		<name>47021456</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47021456</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>36.072</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.192</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.19232</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>36.082</north>
+	    <south>36.062</south>
+	    <east>14.202</east>
+	    <west>14.182</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.192,36.072,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47041452">
+		<name>47041452</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47041452</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>36.035</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.212</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.212143</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>36.045</north>
+	    <south>36.025</south>
+	    <east>14.222</east>
+	    <west>14.202</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.212,36.035,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47041454">
+		<name>47041454</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47041454</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>36.053</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.213</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.213244</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>36.063</north>
+	    <south>36.043</south>
+	    <east>14.223</east>
+	    <west>14.203</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.213,36.053,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47041456">
+		<name>47041456</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47041456</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>36.071</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.214</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.214309</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>36.081</north>
+	    <south>36.061</south>
+	    <east>14.224</east>
+	    <west>14.204</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.214,36.071,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47061452">
+		<name>47061452</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47061452</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>36.034</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.234</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.234166</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>36.044</north>
+	    <south>36.024</south>
+	    <east>14.244</east>
+	    <west>14.224</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.234,36.034,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47061454">
+		<name>47061454</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47061454</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>36.052</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.235</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.235196</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>36.062</north>
+	    <south>36.042</south>
+	    <east>14.245</east>
+	    <west>14.225</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.235,36.052,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47061456">
+		<name>47061456</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47061456</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>36.07</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.236</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.236277</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>36.08</north>
+	    <south>36.06</south>
+	    <east>14.246</east>
+	    <west>14.226</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.236,36.07,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47081450">
+		<name>47081450</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47081450</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>36.015</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.255</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.255004</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>36.025</north>
+	    <south>36.005</south>
+	    <east>14.265</east>
+	    <west>14.245</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.255,36.015,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47081452">
+		<name>47081452</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47081452</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>36.033</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.256</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.255923</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>36.043</north>
+	    <south>36.023</south>
+	    <east>14.266</east>
+	    <west>14.246</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.256,36.033,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47081454">
+		<name>47081454</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47081454</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>36.051</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.257</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.25702</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>36.061</north>
+	    <south>36.041</south>
+	    <east>14.267</east>
+	    <west>14.247</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.257,36.051,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47081456">
+		<name>47081456</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47081456</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>36.069</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.258</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.258212</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>36.079</north>
+	    <south>36.059</south>
+	    <east>14.268</east>
+	    <west>14.248</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.258,36.069,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47101452">
+		<name>47101452</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47101452</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>36.032</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.278</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.278077</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>36.042</north>
+	    <south>36.022</south>
+	    <east>14.288</east>
+	    <west>14.268</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.278,36.032,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47101454">
+		<name>47101454</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47101454</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>36.05</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.279</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.279156</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>36.06</north>
+	    <south>36.04</south>
+	    <east>14.289</east>
+	    <west>14.269</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.279,36.05,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47121452">
+		<name>47121452</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47121452</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>36.031</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.3</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.300222</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>36.041</north>
+	    <south>36.021</south>
+	    <east>14.31</east>
+	    <west>14.29</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.3,36.031,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47121454">
+		<name>47121454</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47121454</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>36.049</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.301</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.3012</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>36.059</north>
+	    <south>36.039</south>
+	    <east>14.311</east>
+	    <west>14.291</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.301,36.049,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47141452">
+		<name>47141452</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47141452</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>36.03</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.322</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.321956</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>36.04</north>
+	    <south>36.02</south>
+	    <east>14.332</east>
+	    <west>14.312</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.322,36.03,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47161438">
+		<name>47161438</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47161438</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.902</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.336</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.336436</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.912</north>
+	    <south>35.892</south>
+	    <east>14.346</east>
+	    <west>14.326</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.336,35.902,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47161440">
+		<name>47161440</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47161440</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.92</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.337</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.342209</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.93</north>
+	    <south>35.91</south>
+	    <east>14.347</east>
+	    <west>14.327</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.337,35.92,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47161442">
+		<name>47161442</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47161442</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.938</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.338</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.338615</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.948</north>
+	    <south>35.928</south>
+	    <east>14.348</east>
+	    <west>14.328</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.338,35.938,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47161444">
+		<name>47161444</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47161444</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.956</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.34</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.339582</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.966</north>
+	    <south>35.946</south>
+	    <east>14.35</east>
+	    <west>14.33</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.34,35.956,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47161446">
+		<name>47161446</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47161446</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.974</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.341</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.340676</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.984</north>
+	    <south>35.964</south>
+	    <east>14.351</east>
+	    <west>14.331</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.341,35.974,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47161450">
+		<name>47161450</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47161450</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>36.011</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.343</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.352522</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>36.021</north>
+	    <south>36.001</south>
+	    <east>14.353</east>
+	    <west>14.333</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.343,36.011,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47181436">
+		<name>47181436</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47181436</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.883</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.357</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.357128</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.893</north>
+	    <south>35.873</south>
+	    <east>14.367</east>
+	    <west>14.347</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.357,35.883,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47181438">
+		<name>47181438</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47181438</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.901</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.358</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.35822</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.911</north>
+	    <south>35.891</south>
+	    <east>14.368</east>
+	    <west>14.348</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.358,35.901,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47181440">
+		<name>47181440</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47181440</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.919</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.359</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.359336</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.929</north>
+	    <south>35.909</south>
+	    <east>14.369</east>
+	    <west>14.349</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.359,35.919,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47181442">
+		<name>47181442</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47181442</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.937</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.36</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.360427</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.947</north>
+	    <south>35.927</south>
+	    <east>14.37</east>
+	    <west>14.35</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.36,35.937,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47181444">
+		<name>47181444</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47181444</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.955</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.362</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.361512</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.965</north>
+	    <south>35.945</south>
+	    <east>14.372</east>
+	    <west>14.352</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.362,35.955,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47201434">
+		<name>47201434</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47201434</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.863</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.378</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.378064</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.873</north>
+	    <south>35.853</south>
+	    <east>14.388</east>
+	    <west>14.368</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.378,35.863,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47201436">
+		<name>47201436</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47201436</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.882</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.379</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.379043</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.892</north>
+	    <south>35.872</south>
+	    <east>14.389</east>
+	    <west>14.369</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.379,35.882,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47201438">
+		<name>47201438</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47201438</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.9</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.38</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.380149</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.91</north>
+	    <south>35.89</south>
+	    <east>14.39</east>
+	    <west>14.37</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.38,35.9,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47201440">
+		<name>47201440</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47201440</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.918</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.381</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.381236</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.928</north>
+	    <south>35.908</south>
+	    <east>14.391</east>
+	    <west>14.371</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.381,35.918,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47201442">
+		<name>47201442</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47201442</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.936</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.382</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.38232</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.946</north>
+	    <south>35.926</south>
+	    <east>14.392</east>
+	    <west>14.372</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.382,35.936,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47201444">
+		<name>47201444</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47201444</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.954</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.383</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.383466</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.964</north>
+	    <south>35.944</south>
+	    <east>14.393</east>
+	    <west>14.373</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.383,35.954,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47221432">
+		<name>47221432</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47221432</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.844</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.399</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.398754</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.854</north>
+	    <south>35.834</south>
+	    <east>14.409</east>
+	    <west>14.389</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.399,35.844,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47221434">
+		<name>47221434</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47221434</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.862</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.4</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.399845</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.872</north>
+	    <south>35.852</south>
+	    <east>14.41</east>
+	    <west>14.39</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.4,35.862,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47221436">
+		<name>47221436</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47221436</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.881</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.401</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.401075</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.891</north>
+	    <south>35.871</south>
+	    <east>14.411</east>
+	    <west>14.391</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.401,35.881,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47221438">
+		<name>47221438</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47221438</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.899</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.402</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.402079</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.909</north>
+	    <south>35.889</south>
+	    <east>14.412</east>
+	    <west>14.392</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.402,35.899,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47221440">
+		<name>47221440</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47221440</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.917</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.403</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.40318</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.927</north>
+	    <south>35.907</south>
+	    <east>14.413</east>
+	    <west>14.393</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.403,35.917,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47221442">
+		<name>47221442</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47221442</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.935</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.404</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.404297</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.945</north>
+	    <south>35.925</south>
+	    <east>14.414</east>
+	    <west>14.394</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.404,35.935,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47241432">
+		<name>47241432</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47241432</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.843</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.421</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.420719</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.853</north>
+	    <south>35.833</south>
+	    <east>14.431</east>
+	    <west>14.411</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.421,35.843,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47241434">
+		<name>47241434</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47241434</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.861</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.422</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.421748</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.871</north>
+	    <south>35.851</south>
+	    <east>14.432</east>
+	    <west>14.412</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.422,35.861,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47241436">
+		<name>47241436</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47241436</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.879</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.423</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.422881</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.889</north>
+	    <south>35.869</south>
+	    <east>14.433</east>
+	    <west>14.413</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.423,35.879,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47241438">
+		<name>47241438</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47241438</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.898</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.424</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.423982</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.908</north>
+	    <south>35.888</south>
+	    <east>14.434</east>
+	    <west>14.414</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.424,35.898,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47241440">
+		<name>47241440</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47241440</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.916</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.425</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.42511</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.926</north>
+	    <south>35.906</south>
+	    <east>14.435</east>
+	    <west>14.415</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.425,35.916,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47241442">
+		<name>47241442</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47241442</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.934</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.426</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.426207</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.944</north>
+	    <south>35.924</south>
+	    <east>14.436</east>
+	    <west>14.416</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.426,35.934,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47261430">
+		<name>47261430</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47261430</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.824</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.441</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.445255</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.834</north>
+	    <south>35.814</south>
+	    <east>14.451</east>
+	    <west>14.431</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.441,35.824,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47261432">
+		<name>47261432</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47261432</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.842</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.443</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.442717</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.852</north>
+	    <south>35.832</south>
+	    <east>14.453</east>
+	    <west>14.433</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.443,35.842,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47261434">
+		<name>47261434</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47261434</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.86</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.444</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.443667</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.87</north>
+	    <south>35.85</south>
+	    <east>14.454</east>
+	    <west>14.434</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.444,35.86,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47261436">
+		<name>47261436</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47261436</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.878</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.445</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.444738</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.888</north>
+	    <south>35.868</south>
+	    <east>14.455</east>
+	    <west>14.435</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.445,35.878,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47261438">
+		<name>47261438</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47261438</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.897</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.446</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.445732</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.907</north>
+	    <south>35.887</south>
+	    <east>14.456</east>
+	    <west>14.436</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.446,35.897,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47261440">
+		<name>47261440</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47261440</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.915</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.447</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.446847</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.925</north>
+	    <south>35.905</south>
+	    <east>14.457</east>
+	    <west>14.437</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.447,35.915,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47261442">
+		<name>47261442</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47261442</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.933</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.448</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.448122</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.943</north>
+	    <south>35.923</south>
+	    <east>14.458</east>
+	    <west>14.438</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.448,35.933,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47281430">
+		<name>47281430</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47281430</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.823</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.463</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.463365</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.833</north>
+	    <south>35.813</south>
+	    <east>14.473</east>
+	    <west>14.453</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.463,35.823,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47281432">
+		<name>47281432</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47281432</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.841</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.464</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.464463</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.851</north>
+	    <south>35.831</south>
+	    <east>14.474</east>
+	    <west>14.454</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.464,35.841,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47281434">
+		<name>47281434</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47281434</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.859</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.466</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.465698</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.869</north>
+	    <south>35.849</south>
+	    <east>14.476</east>
+	    <west>14.456</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.466,35.859,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47281436">
+		<name>47281436</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47281436</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.877</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.467</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.466849</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.887</north>
+	    <south>35.867</south>
+	    <east>14.477</east>
+	    <west>14.457</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.467,35.877,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47281438">
+		<name>47281438</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47281438</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.896</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.468</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.467865</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.906</north>
+	    <south>35.886</south>
+	    <east>14.478</east>
+	    <west>14.458</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.468,35.896,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47281440">
+		<name>47281440</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47281440</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.914</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.469</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.468536</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.924</north>
+	    <south>35.904</south>
+	    <east>14.479</east>
+	    <west>14.459</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.469,35.914,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47281442">
+		<name>47281442</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47281442</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.932</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.47</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.470071</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.942</north>
+	    <south>35.922</south>
+	    <east>14.48</east>
+	    <west>14.46</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.47,35.932,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47301430">
+		<name>47301430</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47301430</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.822</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.485</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.485271</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.832</north>
+	    <south>35.812</south>
+	    <east>14.495</east>
+	    <west>14.475</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.485,35.822,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47301432">
+		<name>47301432</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47301432</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.84</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.486</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.486351</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.85</north>
+	    <south>35.83</south>
+	    <east>14.496</east>
+	    <west>14.476</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.486,35.84,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47301434">
+		<name>47301434</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47301434</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.858</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.487</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.4871</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.868</north>
+	    <south>35.848</south>
+	    <east>14.497</east>
+	    <west>14.477</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.487,35.858,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47301436">
+		<name>47301436</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47301436</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.876</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.489</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.488603</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.886</north>
+	    <south>35.866</south>
+	    <east>14.499</east>
+	    <west>14.479</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.489,35.876,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47301438">
+		<name>47301438</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47301438</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.894</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.49</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.489477</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.904</north>
+	    <south>35.884</south>
+	    <east>14.5</east>
+	    <west>14.48</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.49,35.894,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47301440">
+		<name>47301440</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47301440</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.913</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.491</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.490014</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.923</north>
+	    <south>35.903</south>
+	    <east>14.501</east>
+	    <west>14.481</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.491,35.913,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47321430">
+		<name>47321430</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47321430</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.821</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.507</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.507112</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.831</north>
+	    <south>35.811</south>
+	    <east>14.517</east>
+	    <west>14.497</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.507,35.821,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47321432">
+		<name>47321432</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47321432</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.839</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.508</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.508821</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.849</north>
+	    <south>35.829</south>
+	    <east>14.518</east>
+	    <west>14.498</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.508,35.839,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47321434">
+		<name>47321434</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47321434</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.857</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.509</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.509431</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.867</north>
+	    <south>35.847</south>
+	    <east>14.519</east>
+	    <west>14.499</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.509,35.857,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47321436">
+		<name>47321436</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47321436</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.875</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.511</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.51043</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.885</north>
+	    <south>35.865</south>
+	    <east>14.521</east>
+	    <west>14.501</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.511,35.875,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47321438">
+		<name>47321438</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47321438</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.893</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.512</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.511655</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.903</north>
+	    <south>35.883</south>
+	    <east>14.522</east>
+	    <west>14.502</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.512,35.893,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47341430">
+		<name>47341430</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47341430</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.82</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.529</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.52903</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.83</north>
+	    <south>35.81</south>
+	    <east>14.539</east>
+	    <west>14.519</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.529,35.82,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47341432">
+		<name>47341432</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47341432</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.838</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.53</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.530129</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.848</north>
+	    <south>35.828</south>
+	    <east>14.54</east>
+	    <west>14.52</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.53,35.838,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47341436">
+		<name>47341436</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47341436</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.874</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.532</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.532416</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.884</north>
+	    <south>35.864</south>
+	    <east>14.542</east>
+	    <west>14.522</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.532,35.874,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47341438">
+		<name>47341438</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47341438</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.892</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.534</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.533476</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.902</north>
+	    <south>35.882</south>
+	    <east>14.544</east>
+	    <west>14.524</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.534,35.892,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47361432">
+		<name>47361432</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47361432</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.837</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.552</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.551905</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.847</north>
+	    <south>35.827</south>
+	    <east>14.562</east>
+	    <west>14.542</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.552,35.837,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47361434">
+		<name>47361434</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47361434</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.855</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.553</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.552989</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.865</north>
+	    <south>35.845</south>
+	    <east>14.563</east>
+	    <west>14.543</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.553,35.855,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+
+	<Placemark id="47361436">
+		<name>47361436</name>
+		<ExtendedData>
+			<Data name="ID">
+				<value>47361436</value>
+			</Data>
+			<Data name="LATITUDE">
+				<value>35.873</value>
+			</Data>
+			<Data name="LONGITUDE">
+				<value>14.554</value>
+			</Data>
+			<Data name="COUNTRY">
+				<value>MT</value>
+			</Data>
+			<Data name="ALTITUDE">
+				<value>14.555686</value>
+			</Data>
+     	</ExtendedData>
+     	
+     	<Region>
+	   <LatLonAltBox>
+	    <north>35.883</north>
+	    <south>35.863</south>
+	    <east>14.564</east>
+	    <west>14.544</west>
+	    <minAltitude>0</minAltitude>
+	    <maxAltitude>0</maxAltitude>
+	   </LatLonAltBox>
+	   <Lod>
+	    <minLodPixels>100</minLodPixels>
+	    <maxLodPixels>-1</maxLodPixels>
+	    <minFadeExtent>0</minFadeExtent>
+	    <maxFadeExtent>0</maxFadeExtent>
+	   </Lod>
+	  </Region>
+     	
+     	<gx:balloonVisibility>0</gx:balloonVisibility>
+ 
+		<styleUrl>#placemark-balloon-style</styleUrl>
+
+	     <Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>14.554,35.873,0</coordinates>
+		</Point>
+   		
+	</Placemark>
+	
+</Document>
+</kml>
